@@ -9,8 +9,8 @@
     "start_url":"./",
     "iconos":[
         {
-            "src":"./Administrador.png",
-            "type":"image/png",
+            "src":"./Administrador.bmp",
+            "type":"image/bmp",
             "sizes":"126x126"
         }
     ]
